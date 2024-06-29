@@ -1,0 +1,3 @@
+[submodule "anthropic-cookbook"]
+	path = anthropic-cookbook
+	url = https://github.com/anthropics/anthropic-cookbook
